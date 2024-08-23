@@ -1,2 +1,5 @@
-app\DockerApplication.class
 app\HelloController.class
+app\UserRepository.class
+app\User.class
+app\UserController.class
+app\DockerApplication.class
